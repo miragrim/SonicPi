@@ -76,6 +76,7 @@ define :play_drums do |pattern, a|
   end
 end
 
+#TRANSITION IS OUTRO OS SONG 1 PLUS INTRO OF SONG 2 COMBINED
 #Intro
 
 sample gameboy
